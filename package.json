@@ -1,6 +1,6 @@
 {
   "name": "fcm-node",
-  "version": "1.5.2",
+  "version": "1.5.3",
   "description": "A Node.JS simple interface to Google's Firebase Cloud Messaging (FCM). Supports both android and iOS, including topic messages, and parallel calls.\nAditionally it also keeps the callback behavior for the new firebase messaging service.",
   "main": "index.js",
   "repository": {
