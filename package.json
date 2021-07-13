@@ -30,7 +30,7 @@
   "dependencies": {
     "firebase-admin": "^9.6.0",
     "https-proxy-agent": "^5.0.0",
-    "retry": "^0.12.0",
+    "retry": "^0.13.1",
     "snyk": "^1.518.0"
   },
   "devDependencies": {
